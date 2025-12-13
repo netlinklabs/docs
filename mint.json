@@ -1,0 +1,9 @@
+{
+  "name": "Netlink Labs Documentation",
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": ["docs/index"]
+    }
+  ]
+}
