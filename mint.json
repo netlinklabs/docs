@@ -5,7 +5,7 @@
 
   "logo": {
     "light": "/assets/NET Landscape Dark New.png",
-  "dark": "/assets/NET Rebrand Light New.png"
+    "dark": "/assets/NET Rebrand Light New.png"
   },
 
   "colors": {
@@ -15,21 +15,52 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["docs/index"]
+      "pages": [
+        "docs/about-netlink",
+        "docs/vision",
+        "docs/why-netlink"
+      ]
     },
     {
-      "group": "Netlink Token (NET)",
+      "group": "Token",
       "pages": [
-        "docs/what-is-netlink",
-        "docs/how-to-buy-net",
-        "docs/tokenomics"
+        "docs/token/network",
+        "docs/token/what-is-net",
+        "docs/token/how-to-buy-net",
+        "docs/token/tokenomics"
+      ]
+    },
+    {
+      "group": "Utility",
+      "pages": [
+        "docs/utility/overview",
+        "docs/utility/applications",
+        "docs/utility/how-it-works",
+        "docs/utility/use-cases"
+      ]
+    },
+    {
+      "group": "Ecosystem",
+      "pages": [
+        "docs/ecosystem/for-founders",
+        "docs/ecosystem/for-members",
+        "docs/ecosystem/for-communities",
+        "docs/ecosystem/for-investors"
       ]
     },
     {
       "group": "Security & Trust",
       "pages": [
-        "docs/security",
-        "docs/disclaimer"
+        "docs/security/overview",
+        "docs/security/contracts",
+        "docs/security/audit"
+      ]
+    },
+    {
+      "group": "Legal",
+      "pages": [
+        "docs/legal/disclaimer",
+        "docs/legal/terms"
       ]
     }
   ]
