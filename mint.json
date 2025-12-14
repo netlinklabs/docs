@@ -1,12 +1,15 @@
 {
   "name": "Netlink Labs Documentation",
 
-  "favicon": "/favicon.ico",
+  "favicon": "/assets/Logo Net Transparan 200.png",
+
+  "logo": {
+    "light": "/assets/NET Rebrand Light New.png",
+    "dark": "/assets/NET Landscape Dark New.png"
+  },
 
   "colors": {
-    "primary": "#048F8A",
-    "light": "#E6F7F6",
-    "dark": "#00295A"
+    "primary": "#0EA5A4"
   },
 
   "navigation": [
