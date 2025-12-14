@@ -4,8 +4,8 @@
   "favicon": "/assets/Logo Net Transparan 200.png",
 
   "logo": {
-    "light": "/assets/NET Landscape Dark New.png",
-    "dark": "/assets/NET Rebrand Light New.png"
+    "light": "/assets/NET Rebrand Light New.png",
+    "dark": "/assets/NET Landscape Dark New.png"
   },
 
   "colors": {
@@ -16,9 +16,7 @@
     {
       "group": "Getting Started",
       "pages": [
-        "docs/about-netlink",
-        "docs/vision",
-        "docs/why-netlink"
+        "docs/index"
       ]
     },
     {
@@ -26,17 +24,15 @@
       "pages": [
         "docs/token/network",
         "docs/token/what-is-net",
-        "docs/token/how-to-buy-net",
-        "docs/token/tokenomics"
+        "docs/token/how-to-buy-net"
       ]
     },
     {
-      "group": "Utility",
+      "group": "Utilities",
       "pages": [
-        "docs/utility/overview",
-        "docs/utility/applications",
-        "docs/utility/how-it-works",
-        "docs/utility/use-cases"
+        "docs/utilities/overview",
+        "docs/utilities/applications",
+        "docs/utilities/how-to-use"
       ]
     },
     {
@@ -52,15 +48,7 @@
       "group": "Security & Trust",
       "pages": [
         "docs/security/overview",
-        "docs/security/contracts",
-        "docs/security/audit"
-      ]
-    },
-    {
-      "group": "Legal",
-      "pages": [
-        "docs/legal/disclaimer",
-        "docs/legal/terms"
+        "docs/security/disclaimer"
       ]
     }
   ]
