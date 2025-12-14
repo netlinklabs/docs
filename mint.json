@@ -4,9 +4,9 @@
   "favicon": "/assets/Logo Net Transparan 200.png",
 
   "logo": {
-  "light": "/assets/NET Landscape Dark New.png",
-  "dark": "/assets/NET Rebrand Light New.png"
-},
+    "light": "/assets/NET Landscape Dark New.png",
+    "dark": "/assets/NET Rebrand Light New.png"
+  },
 
   "colors": {
     "primary": "#0EA5A4"
@@ -16,7 +16,9 @@
     {
       "group": "Getting Started",
       "pages": [
-        "docs/index"
+        "docs/about-netlink",
+        "docs/vision",
+        "docs/why-netlink"
       ]
     },
     {
@@ -24,15 +26,17 @@
       "pages": [
         "docs/token/network",
         "docs/token/what-is-net",
-        "docs/token/how-to-buy-net"
+        "docs/token/how-to-buy-net",
+        "docs/token/tokenomics"
       ]
     },
     {
-      "group": "Utilities",
+      "group": "Utility",
       "pages": [
-        "docs/utilities/overview",
-        "docs/utilities/applications",
-        "docs/utilities/how-to-use"
+        "docs/utility/overview",
+        "docs/utility/applications",
+        "docs/utility/how-it-works",
+        "docs/utility/use-cases"
       ]
     },
     {
@@ -48,7 +52,15 @@
       "group": "Security & Trust",
       "pages": [
         "docs/security/overview",
+        "docs/security/multisig-wallets",
+        "docs/security/audits",
         "docs/security/disclaimer"
+      ]
+    },
+    {
+      "group": "Whitepaper",
+      "pages": [
+        "docs/whitepaper"
       ]
     }
   ]
