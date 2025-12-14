@@ -4,8 +4,8 @@
   "favicon": "/assets/Logo Net Transparan 200.png",
 
   "logo": {
-    "light": "/assets/NET Rebrand Light New.png",
-    "dark": "/assets/NET Landscape Dark New.png"
+    "/assets/NET Landscape Dark New.png",
+    "/assets/NET Rebrand Light New.png"
   },
 
   "colors": {
