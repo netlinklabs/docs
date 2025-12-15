@@ -25,7 +25,7 @@
       "group": "Token",
       "pages": [
         "docs/token/network",
-        "docs/token/what-is-net",
+        "docs/token/netlink-token",
         "docs/token/how-to-buy-net",
         "docs/token/tokenomics"
       ]
